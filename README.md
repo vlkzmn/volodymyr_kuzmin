@@ -1,7 +1,7 @@
 # My Personal Page
 
 <p>Presentation landing page for Luna Eye speakers. Provides information about the product, its technical characteristics and advantages.</p>
-<h1><a href="https://vlkzmn.github.io/personal_page/">LIVE DEMO</a></h1>
+<h1><a href="https://vlkzmn.github.io/volodymyr_kuzmin/">LIVE DEMO</a></h1>
 
 # Technologies used
 
