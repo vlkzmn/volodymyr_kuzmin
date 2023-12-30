@@ -30,6 +30,7 @@ export const Projects: React.FC = () => {
                     src={project.image}
                     className="projects__item-image"
                     alt={project.title}
+                    loading="lazy"
                   />
 
                   <div className={classNames(
