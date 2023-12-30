@@ -50,7 +50,7 @@ export const About: React.FC = () => {
               </p>
             </div>
 
-            <img src="img/foto.jpg" alt="Volodymyr Kuzmin foto" className="about__foto" />
+            <img src="img/foto.webp" alt="Volodymyr Kuzmin foto" className="about__foto" />
           </div>
         </div>
       </div>

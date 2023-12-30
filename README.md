@@ -1,14 +1,14 @@
 # My Personal Page
 
-<p>Presentation landing page for Luna Eye speakers. Provides information about the product, its technical characteristics and advantages.</p>
+<p>My personal page, it’s about me, my skills, my works and get in touch.</p>
 <h1><a href="https://vlkzmn.github.io/volodymyr_kuzmin/">LIVE DEMO</a></h1>
 
 # Technologies used
 
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Sass (SCSS)</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Sass</li>
   <li>React</li>
   <li>TypeScript</li>
 </ul>
@@ -20,13 +20,13 @@
 <p>Semantic and meta tags are used. SEO optimization is done. Images are optimized. Accessibility is improved.</p>
 <p><em>see google lighthouse report below (accessibility are not ideal because the lighthouse does not like the light fonts on a white background that the designer intended):</em></p>
 <p align="center">
-  <img src="https://github.com/vlkzmn/personal_page/raw/master/src/images/lightHouseGoogle.png" width="700px" alt="My Personal Page lighthouse">
+  <img src="https://github.com/vlkzmn/volodymyr_kuzmin/raw/main/src/images/lightHouseGoogle.png" width="700px" alt="My Personal Page lighthouse">
 </p>
 
 # Preview
 
 <p align="center">
-  <img src="https://github.com/vlkzmn/personal_page/raw/master/src/images/preview.gif" alt="My Personal Page">
+  <img src="https://github.com/vlkzmn/volodymyr_kuzmin/raw/main/src/images/preview.gif" alt="My Personal Page">
 </p>
 
 # In Conclusion
