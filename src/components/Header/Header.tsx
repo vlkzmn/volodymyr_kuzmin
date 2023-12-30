@@ -14,6 +14,7 @@ export const Header: React.FC = () => {
                 src="img/logo.svg"
                 className="header__logo-image"
                 alt="Volodymyr Kuzmin | Logo"
+                loading="lazy"
               />
             </a>
           </div>
