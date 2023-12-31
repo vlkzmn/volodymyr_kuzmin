@@ -18,7 +18,7 @@ export const About: React.FC = () => {
               </p>
 
               <p className="about__paragraph">
-                In 2014, he launched an online store on the Magento platform and subsequently worked as an administrator there. What I did: install Magento, work with versions 1.6, 1.9, connect a domain, install a theme, customize, configure configuration, add products (to simplify the process, I wrote parsers in PHP that collected products from other stores and structured the received information into files for bulk import ), SEO optimization, contextual advertising.
+                In 2014, I launched an online store on the Magento platform and subsequently worked as an administrator there. What I did: Magento installing, working with versions 1.6, 1.9, connecting a domain, theme installing, customizing, configuration settings, adding products (to simplify the process, I wrote parsers in PHP that collected products from other stores and structured the received information into files for bulk import), SEO optimization, contextual advertising.
               </p>
 
               <p className="about__paragraph">
@@ -45,8 +45,6 @@ export const About: React.FC = () => {
                   &#160;Mate&#160;Academy&#160;
                 </a>
                 and am now 100% ready to dive into the world of Web Development!
-                <br />
-                Make your offer in order to be the first on my list of employers on my resume!
               </p>
             </div>
 
