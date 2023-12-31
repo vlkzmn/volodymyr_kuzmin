@@ -17,9 +17,9 @@
 
 <p>Layout is adaptive and responsive. It works correctly on all screen sizes (mobile, tablet and desktop).</p>
 
-<p>Custom domain was connected to GitHub pages. An API has been created (Node.js, Express, Nodemailer) on a separate server for sending messages from the site.</p>
+<p>Custom domain was connected to GitHub pages. An API has been created (Node.js, Express, Nodemailer) on a separate server for sending messages from the page.</p>
 
-<p>Semantic and meta tags are used. SEO optimization is done. Images are optimized. Accessibility is improved.
+<p>Semantic and meta tags are used. SEO optimization is done. Images are optimized. Accessibility is improved. Google search console and analytics have been added to the page.
 <br>
 <em>see google lighthouse report below:</em></p>
 

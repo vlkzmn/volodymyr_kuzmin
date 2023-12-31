@@ -29,9 +29,9 @@ export const About: React.FC = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  &#160;M2Training.&#160;
+                  &#160;M2Training&#160;
                 </a>
-                But, my basic knowledge of HTML, CSS and JavaScript was not enough for employment, plus events in Ukraine made adjustments to life.
+                and PHP/SQL courses on Udemy. But, my basic knowledge of HTML, CSS and JavaScript was not enough for employment, plus events in Ukraine made adjustments to life.
               </p>
 
               <p className="about__paragraph">
