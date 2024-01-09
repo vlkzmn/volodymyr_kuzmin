@@ -32,7 +32,7 @@ export const Header: React.FC = () => {
             <a
               href="img/resume-Volodymyr-Kuzmin.pdf"
               download="resume-Volodymyr-Kuzmin.pdf"
-              className="header__buttom"
+              className="header__button"
             >
               Resume
             </a>
@@ -40,21 +40,21 @@ export const Header: React.FC = () => {
         </nav>
 
         <div className="header__content">
-          <div className="header__hi">
+          <p className="header__hi">
             Hi, my name is
-          </div>
+          </p>
 
           <h1 className="header__title">
             Volodymyr Kuzmin
           </h1>
 
-          <div className="header__legend">
+          <p className="header__legend">
             I build things for the web
-          </div>
+          </p>
 
-          <div className="header__text">
-            I am Full Stack Developer specializing in creating (and sometimes designing) web applications, I approach my work with both enthusiasm and pleasure! I am currently looking for a job, I am willing to consider participation in various projects or startups.
-          </div>
+          <p className="header__text">
+            I am a Full Stack Developer specializing in the creation (and occasionally design) of web applications. I approach my work with enthusiasm and pleasure. Currently, I am actively seeking employment and open to considering participation in various projects or startups.
+          </p>
         </div>
       </div>
     </header>

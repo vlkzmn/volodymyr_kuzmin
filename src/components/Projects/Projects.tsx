@@ -25,7 +25,7 @@ export const Projects: React.FC = () => {
           <div className="projects__list">
             {featuredProjects.map((project, index) => {
               return (
-                <div className="projects__item" key={project.id}>
+                <article className="projects__item" key={project.id}>
                   <img
                     src={project.image}
                     className="projects__item-image"
@@ -42,13 +42,13 @@ export const Projects: React.FC = () => {
                       {project.title}
                     </h3>
 
-                    <div className="projects__item-text">
+                    <p className="projects__item-text">
                       {project.description}
-                    </div>
+                    </p>
 
-                    <div className="projects__item-technology">
+                    <p className="projects__item-technology">
                       {project.stack}
-                    </div>
+                    </p>
 
                     <div className="projects__item-links">
                       <a
@@ -74,7 +74,7 @@ export const Projects: React.FC = () => {
                       </a>
                     </div>
                   </div>
-                </div>
+                </article>
               );
             })}
           </div>
@@ -83,7 +83,7 @@ export const Projects: React.FC = () => {
             <div className="projects__other-grid">
               {otherProjects.map(project => {
                 return (
-                  <div className="projects__other-element" key={project.id}>
+                  <article className="projects__other-element" key={project.id}>
                     <div>
                       <div className="projects__other-element-icons">
                         <div className="projects__other-element-icons-folder">
@@ -119,15 +119,15 @@ export const Projects: React.FC = () => {
                         {project.title}
                       </h4>
 
-                      <div className="projects__other-element-text">
+                      <p className="projects__other-element-text">
                         {project.description}
-                      </div>
+                      </p>
                     </div>
 
-                    <div className="projects__other-element-technology">
+                    <p className="projects__other-element-technology">
                       {project.stack}
-                    </div>
-                  </div>
+                    </p>
+                  </article>
                 );
               })}
             </div>
