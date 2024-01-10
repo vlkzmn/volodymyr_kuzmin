@@ -73,6 +73,8 @@
 
   &__icon {
     width: 60px;
+    height: 85px;
+    object-fit: contain;
 
     @include onDesktop {
       filter: brightness(60%);
