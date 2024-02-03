@@ -132,6 +132,16 @@ export const Projects: React.FC = () => {
               })}
             </div>
           </div>
+
+          <div className="projects__remark">
+            <span className="projects__remark-title">
+              remark:
+            </span>
+
+            <span className="projects__remark-text">
+              projects that use a server part are hosted on free render.com hosting and have a data loading delay of about 2 minutes, I hope you have time to wait!
+            </span>
+          </div>
         </div>
       </div>
     </section>

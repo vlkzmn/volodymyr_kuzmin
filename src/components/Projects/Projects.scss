@@ -44,6 +44,18 @@
     }
   }
 
+  &__remark {
+    display: flex;
+    margin: 0 40px;
+    gap: 20px;
+    font-family: $RobotoMono;
+    font-size: 14px;
+  }
+
+  &__remark-title {
+    color: $Green;
+  }
+
   &__item {
     position: relative;
     display: flex;
@@ -202,6 +214,10 @@
         color: $Green;
       }
     }    
+  }
+
+  &__other {
+    margin-bottom: 50px;
   }
 
   &__other-title {

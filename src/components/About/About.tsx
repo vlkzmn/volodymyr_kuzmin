@@ -18,24 +18,24 @@ export const About: React.FC = () => {
               </p>
 
               <p className="about__paragraph">
-                In 2014, I initiated the launch of an online store on the Magento platform and subsequently served as an administrator. My responsibilities included Magento installation, proficiency with versions 1.6 and 1.9, domain connection, theme installation, customization, configuration settings, product addition (for streamlining the process, I developed parsers in PHP to gather products from other stores and organized the information into files for bulk import), SEO optimization, and managing contextual advertising.
+                In 2012, at the request of friends, I created an online store on the Magento platform, and later a second one, and subsequently held the position of administrator in them. My responsibilities included: Magento installation, theme and functionality customization, configuration settings, product addition (to optimize the process of adding products, I developed parsers to collect products from other stores), SEO optimization and managing contextual advertising.
               </p>
 
               <p className="about__paragraph">
-                In 2021, with the aim of enhancing my skills and fully immersing myself in development, I took the Magento 2 Backend Developer course offered by
+                During the process, I realized that I liked working with code more than other responsibilities, and in 2021, in order to improve my skills and fully immerse myself in development, I took the Magento 2 Backend Developer course from
                 <a
                   href="https://m2training.com.ua/"
                   className="about__paragraph-link"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  &#160;M2Training.&#160;
+                  &#160;M2Training&#160;
                 </a>
-                Additionally, I completed PHP/SQL courses on Udemy. But my basic knowledge in HTML, CSS, and JavaScript, I realized further skill development was necessary for employment. Plus events in Ukraine made adjustments to life.
+                and PHP/SQL courses on Udemy. But the acquired and existing knowledge was not enough to receive an offer and that this requires further development of skills. Then events in Ukraine made their own adjustments to life.
               </p>
 
               <p className="about__paragraph">
-                In 2023, I successfully completed the Full Stack Developer course at
+                In 2024, I successfully completed the Full Stack Developer course at
                 <a
                   href="https://mate.academy/en/courses/fullstack-parttime#course-program"
                   className="about__paragraph-link"
@@ -44,7 +44,7 @@ export const About: React.FC = () => {
                 >
                   &#160;Mate&#160;Academy&#160;
                 </a>
-                and am now fully prepared to embark on a journey into the realm of Web Development!
+                and am now fully prepared to dive into the field of web development!
               </p>
             </div>
 

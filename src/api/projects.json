@@ -83,7 +83,7 @@
   {
     "id": 9,
     "title": "Gadgets Online Store",
-    "description": "A single-page application implements online store functionality (server on free hosting, there may be delays in data loading).",
+    "description": "A single-page application implements online store functionality.",
     "image": "",
     "gitHubUrl": "https://github.com/vlkzmn/gadgets_store",
     "url": "https://vlkzmn.github.io/gadgets_store/",
@@ -93,7 +93,7 @@
   {
     "id": 10,
     "title": "Simple Chat",
-    "description": "A single-page application implements simple chat functionality (server on free hosting, there may be delays in data loading).",
+    "description": "A single-page application implements simple chat functionality. Instant data exchange using websockets.",
     "image": "",
     "gitHubUrl": "https://github.com/vlkzmn/simple_chat",
     "url": "https://vlkzmn.github.io/simple_chat/",
@@ -112,10 +112,10 @@
   },
   {
     "id": 12,
-    "title": "Schema Questionnaire",
-    "description": "Psychological test - multi-language, dark/light theme, saving results to the database and sending results to PDF.",
+    "title": "Schema Questionnaires",
+    "description": "Psychological test - multi-language, dark/light theme, saving results to the database and sending PDF results by email, access to view results in the application by authorization (access/refresh tokens).",
     "image": "",
-    "gitHubUrl": "https://github.com/vlkzmn/shema/settings/pages",
+    "gitHubUrl": "https://github.com/vlkzmn/shema",
     "url": "https://vlkzmn.github.io/shema/",
     "stack": "React Typescript Node.js",
     "isFeatured": false
