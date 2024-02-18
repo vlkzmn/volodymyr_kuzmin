@@ -14,8 +14,8 @@
     "title": "Schema Questionnaires",
     "description": "Psychological test - multi-language, dark/light theme, saving results to the database and sending PDF results by email, access to view results in the application by authorization (access/refresh tokens).",
     "image": "img/projects/shema.webp",
-    "gitHubUrl": "https://young-schema-questionnaire.pp.ua/",
-    "url": "https://vlkzmn.github.io/shema/",
+    "gitHubUrl": "https://github.com/vlkzmn/shema",
+    "url": "https://young-schema-questionnaire.pp.ua/",
     "stack": "React Typescript Node.js",
     "isFeatured": true
   },
