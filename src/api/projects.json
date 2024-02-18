@@ -1,63 +1,33 @@
 [
   {
-    "id": 1,
-    "title": "Crazybaby Landing Page",
-    "description": "Landing Page Presentation for Luna Eye Speakers: Unveiling detailed insights into the product, its technical features, and the numerous advantages it brings.",
-    "image": "img/projects/crazybaby.webp",
-    "gitHubUrl": "https://github.com/vlkzmn/crazybaby_landing",
-    "url": "https://vlkzmn.github.io/crazybaby_landing/",
-    "stack": "HTML Sass JavaScript",
+    "id": 14,
+    "title": "Charity Project Big Hearts",
+    "description": "Comming Soon!",
+    "image": "img/projects/big-hearts.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/big_hearts",
+    "url": "https://vlkzmn.github.io/big_hearts/",
+    "stack": "React Typescript Sass",
+    "isFeatured": true
+  },
+  {
+    "id": 12,
+    "title": "Schema Questionnaires",
+    "description": "Psychological test - multi-language, dark/light theme, saving results to the database and sending PDF results by email, access to view results in the application by authorization (access/refresh tokens).",
+    "image": "img/projects/shema.webp",
+    "gitHubUrl": "https://young-schema-questionnaire.pp.ua/",
+    "url": "https://vlkzmn.github.io/shema/",
+    "stack": "React Typescript Node.js",
     "isFeatured": true
   },
   {
     "id": 2,
-    "title": "MyBike Landing Page",
-    "description": "Landing page for a bicycle store. Demonstrates the most popular models, describes the main characteristics and advantages and provides a contact form.",
-    "image": "img/projects/bike.webp",
-    "gitHubUrl": "https://github.com/vlkzmn/mybike_landing",
-    "url": "https://vlkzmn.github.io/mybike_landing/",
+    "title": "Copywriters Landing page",
+    "description": "Landing page for a copywriter demonstrates the topics of work that can be ordered, the timing and cost of services, the advantages of their work, and positive customer reviews.",
+    "image": "img/projects/motivaciyniy-lyst.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/motivation",
+    "url": "https://motivaciyniy-lyst.pp.ua/",
     "stack": "HTML Sass JavaScript",
     "isFeatured": true
-  },
-  {
-    "id": 3,
-    "title": "Potr Pots Landing Page",
-    "description": "Landing page for POTR POTS Self Watering Plant Pots. Provides information about the features of using pots, the advantages compared to other pots, and the creators. There is a feedback form on the page.",
-    "image": "img/projects/potr-pots.webp",
-    "gitHubUrl": "https://github.com/vlkzmn/potr_pots_landing",
-    "url": "https://vlkzmn.github.io/potr_pots_landing/",
-    "stack": "HTML Sass JavaScript",
-    "isFeatured": true
-  },
-  {
-    "id": 4,
-    "title": "Museum Landing Page",
-    "description": "Landing page for the National Art Museum of Ukraine. Provides information about museum opening hours, ticket prices, current exhibitions and events, displays a gallery of some paintings, and displays a form for subscribing to museum news.",
-    "image": "",
-    "gitHubUrl": "https://github.com/vlkzmn/museum_landing",
-    "url": "https://vlkzmn.github.io/museum_landing/",
-    "stack": "HTML Sass JavaScript",
-    "isFeatured": false
-  },
-  {
-    "id": 5,
-    "title": "NAMU Landing Page",
-    "description": "The second version of the landing page for the National Art Museum of Ukraine. According to the technical specifications, only the main page has been implemented, links to other pages are not working.",
-    "image": "img/projects/namu.webp",
-    "gitHubUrl": "https://github.com/vlkzmn/namu_landing",
-    "url": "https://vlkzmn.github.io/namu_landing/",
-    "stack": "HTML Sass",
-    "isFeatured": false
-  },
-  {
-    "id": 6,
-    "title": "Miami Landing Page",
-    "description": "Landing page for a real estate agency. Provides information about the agency's work, demonstrates several of the most attractive real estate properties, displays reviews of the agency's clients and provides a contact form.",
-    "image": "img/projects/miami.webp",
-    "gitHubUrl": "https://github.com/vlkzmn/miami_landing",
-    "url": "https://vlkzmn.github.io/miami_landing/",
-    "stack": "HTML Sass JavaScript",
-    "isFeatured": false
   },
   {
     "id": 7,
@@ -69,7 +39,26 @@
     "stack": "React Typescript Sass",
     "isFeatured": false
   },
-
+  {
+    "id": 3,
+    "title": "Potr Pots Landing Page",
+    "description": "Landing page for POTR POTS Self Watering Plant Pots. Provides information about the features of using pots, the advantages compared to other pots, and the creators. There is a feedback form on the page.",
+    "image": "img/projects/potr-pots.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/potr_pots_landing",
+    "url": "https://vlkzmn.github.io/potr_pots_landing/",
+    "stack": "HTML Sass JavaScript",
+    "isFeatured": false
+  },
+  {
+    "id": 1,
+    "title": "Crazybaby Landing Page",
+    "description": "Landing Page Presentation for Luna Eye Speakers: Unveiling detailed insights into the product, its technical features, and the numerous advantages it brings.",
+    "image": "img/projects/crazybaby.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/crazybaby_landing",
+    "url": "https://vlkzmn.github.io/crazybaby_landing/",
+    "stack": "HTML Sass JavaScript",
+    "isFeatured": false
+  },
   {
     "id": 8,
     "title": "2048 Game",
@@ -111,13 +100,43 @@
     "isFeatured": false
   },
   {
-    "id": 12,
-    "title": "Schema Questionnaires",
-    "description": "Psychological test - multi-language, dark/light theme, saving results to the database and sending PDF results by email, access to view results in the application by authorization (access/refresh tokens).",
+    "id": 4,
+    "title": "Museum Landing Page",
+    "description": "Landing page for the National Art Museum of Ukraine. Provides information about museum opening hours, ticket prices, current exhibitions and events, displays a gallery of some paintings, and displays a form for subscribing to museum news.",
     "image": "",
-    "gitHubUrl": "https://github.com/vlkzmn/shema",
-    "url": "https://vlkzmn.github.io/shema/",
-    "stack": "React Typescript Node.js",
+    "gitHubUrl": "https://github.com/vlkzmn/museum_landing",
+    "url": "https://vlkzmn.github.io/museum_landing/",
+    "stack": "HTML Sass JavaScript",
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "title": "NAMU Landing Page",
+    "description": "The second version of the landing page for the National Art Museum of Ukraine. According to the technical specifications, only the main page has been implemented, links to other pages are not working.",
+    "image": "img/projects/namu.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/namu_landing",
+    "url": "https://vlkzmn.github.io/namu_landing/",
+    "stack": "HTML Sass",
+    "isFeatured": false
+  },
+  {
+    "id": 13,
+    "title": "MyBike Landing Page",
+    "description": "Landing page for a bicycle store. Demonstrates the most popular models, describes the main characteristics and advantages and provides a contact form.",
+    "image": "img/projects/bike.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/mybike_landing",
+    "url": "https://vlkzmn.github.io/mybike_landing/",
+    "stack": "HTML Sass JavaScript",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "title": "Miami Landing Page",
+    "description": "Landing page for a real estate agency. Provides information about the agency's work, demonstrates several of the most attractive real estate properties, displays reviews of the agency's clients and provides a contact form.",
+    "image": "img/projects/miami.webp",
+    "gitHubUrl": "https://github.com/vlkzmn/miami_landing",
+    "url": "https://vlkzmn.github.io/miami_landing/",
+    "stack": "HTML Sass JavaScript",
     "isFeatured": false
   }
 ]

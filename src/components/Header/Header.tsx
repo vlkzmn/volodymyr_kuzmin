@@ -30,9 +30,10 @@ export const Header: React.FC = () => {
             </ul>
 
             <a
-              href="img/resume-Volodymyr-Kuzmin.pdf"
-              download="resume-Volodymyr-Kuzmin.pdf"
+              href="https://drive.google.com/file/d/1pVFIeyfvasM0d9KER1sxvY8yfM-3rf6C/view?usp=sharing"
               className="header__button"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Resume
             </a>
