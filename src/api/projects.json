@@ -35,7 +35,7 @@
     "description": "My personal page, it’s about me, my skills, my projects and getting in touch.",
     "image": "img/projects/vlkzmn.webp",
     "gitHubUrl": "https://github.com/vlkzmn/volodymyr_kuzmin",
-    "url": "https://vlkzmn.github.io/volodymyr_kuzmin/",
+    "url": "https://volodymyr-kuzmin.pp.ua/",
     "stack": "React Typescript Sass",
     "isFeatured": false
   },
@@ -47,7 +47,7 @@
     "gitHubUrl": "https://github.com/vlkzmn/potr_pots_landing",
     "url": "https://vlkzmn.github.io/potr_pots_landing/",
     "stack": "HTML Sass JavaScript",
-    "isFeatured": false
+    "isFeatured": true
   },
   {
     "id": 1,
@@ -57,7 +57,7 @@
     "gitHubUrl": "https://github.com/vlkzmn/crazybaby_landing",
     "url": "https://vlkzmn.github.io/crazybaby_landing/",
     "stack": "HTML Sass JavaScript",
-    "isFeatured": false
+    "isFeatured": true
   },
   {
     "id": 8,
