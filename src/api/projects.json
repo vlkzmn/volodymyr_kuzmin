@@ -2,7 +2,7 @@
   {
     "id": 14,
     "title": "Charity Project Big Hearts",
-    "description": "Comming Soon!",
+    "description": "Coming soon! On development stage. A platform for posting various charity announcements.",
     "image": "img/projects/big-hearts.webp",
     "gitHubUrl": "https://github.com/vlkzmn/big_hearts",
     "url": "https://vlkzmn.github.io/big_hearts/",
@@ -47,7 +47,7 @@
     "gitHubUrl": "https://github.com/vlkzmn/potr_pots_landing",
     "url": "https://vlkzmn.github.io/potr_pots_landing/",
     "stack": "HTML Sass JavaScript",
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": 1,
@@ -57,7 +57,7 @@
     "gitHubUrl": "https://github.com/vlkzmn/crazybaby_landing",
     "url": "https://vlkzmn.github.io/crazybaby_landing/",
     "stack": "HTML Sass JavaScript",
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": 8,
