@@ -2,10 +2,10 @@
   {
     "id": 14,
     "title": "Charity Project Big Hearts",
-    "description": "Coming soon! On development stage. A platform for posting various charity announcements.",
+    "description": "Charity Project Big Hearts. The application makes it possible to post advertisements in which you can offer free things or services, or advertisements requesting help or collecting donations.",
     "image": "img/projects/big-hearts.webp",
     "gitHubUrl": "https://github.com/vlkzmn/big_hearts",
-    "url": "https://vlkzmn.github.io/big_hearts/",
+    "url": "https://velyki-sertsia.pp.ua/",
     "stack": "React Typescript Sass",
     "isFeatured": true
   },

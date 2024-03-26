@@ -24,7 +24,6 @@
   <li>PWA implemented on the page.</li>
   <li>Images are optimized.</li>
   <li>Google search console and analytics have been added to the page.</li>
-  <li>SEO optimization is done.</li>
 </ul>
 
 <p><em>See google lighthouse report below:</em></p>
