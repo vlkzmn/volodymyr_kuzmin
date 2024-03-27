@@ -15,12 +15,6 @@
     "image": "img/skills/sass.svg"
   },
   {
-    "id": 4,
-    "name": "GitHub",
-    "image": "img/skills/github.svg"
-  },
-
-  {
     "id": 6,
     "name": "JavaScript",
     "image": "img/skills/javascript.svg"
@@ -36,13 +30,18 @@
     "image": "img/skills/react.svg"
   },
   {
+    "id": 4,
+    "name": "Next",
+    "image": "img/skills/next.png"
+  },
+  {
     "id": 5,
     "name": "Redux",
     "image": "img/skills/redux.svg"
   },
   {
     "id": 9,
-    "name": "Node.js",
+    "name": "Node",
     "image": "img/skills/nodejs.svg"
   },
   {
